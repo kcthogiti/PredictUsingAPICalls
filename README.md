@@ -2,10 +2,10 @@
 This is an example which shows building a machine learning model, using the model objects and predict values by making API calls
 
 
-The objective of this project is to show 
+The objective of this project is to do the following
 	1. Build a simple classification model using the iris data
 	2. Pickle the model objects
-	3. Create a REST API using python Flask that uses the pickled objects and predicts the class for test data based on an API request using JSON data
+	3. Create a REST API using python Flask that uses the pickled objects and predicts the class for test data based on an API request made using JSON data
 
 	
 Following packages are used:
